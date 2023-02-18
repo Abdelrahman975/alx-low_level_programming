@@ -2,12 +2,13 @@
 #include <stdlib.h>
 #include <time.h>
 /*
- *  * main - Entry point
- *   *
- *    * Return: Always 0 (Success)
+ * main - Prints if number is positive, zero or negative
+ * Return: Always (success)
+ *
  */
 
 int main(void)
+
 {
 	int n;
 
